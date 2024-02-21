@@ -16,7 +16,7 @@
 
     <div class="mainContainer">
      <form action="MyServlet" method="post" class="searchInput">
-            <input type="text" placeholder="Enter City Name" id="searchInput" value="New Delhi" name="city"/>
+            <input type="text" placeholder="Enter City Name" id="searchInput" value="city" name="city"/>
             <button id="searchButton"><i class="fa-solid fa-magnifying-glass"></i></button>
       </form>
         <div class="weatherDetails">
